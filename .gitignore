@@ -1,0 +1,4 @@
+.virtualenvs
+*.swp
+*.swo
+*.pyc
