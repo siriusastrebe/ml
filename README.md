@@ -17,3 +17,27 @@ Matplotlib Backend Error
 https://stackoverflow.com/questions/21784641/installation-issue-with-matplotlib-python
 
 
+
+Chapter 3
+===
+Perceptron Classifier
+
+Logistic Regression
+* Actually a classifier despite its name
+* Linear classifier, but converges unlike the perceptron
+* Regularization
+  * 10^C where C is the 
+
+SVM
+* Maximizes margin between classification
+* Kernalizable
+  * Linear kernal
+  * Radial Basis Function kernel, Gaussian kernal (RBF kernel)
+* Gamma function affects cutoff, decision boundary
+
+
+Decision Trees
+* information gain
+* Gini Impurity
+* Entropy
+* Classification Error
