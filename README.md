@@ -41,3 +41,19 @@ Decision Trees
 * Gini Impurity
 * Entropy
 * Classification Error
+
+Random Forests
+* Ensemble learning
+* Weak learners combined to create a strong learner
+
+
+K-Nearest Neighbors
+* Minkowski uses a generalized Euclidean and Manhattan Distance to determine high-dimensionality distance
+
+
+Outside readings
+===
+Activation Funcions:
+Sigmoid
+Relu
+Softmax Functions
